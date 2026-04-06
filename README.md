@@ -63,14 +63,6 @@ Building modern, scalable web applications from front to back.
 
 ---
 
-## 🌟 Open Source
-
-I'm passionate about open source development. Feel free to explore my repositories, open issues, or submit pull requests — contributions are always welcome!
-
-> *"Talk is cheap. Show me the code."* — Linus Torvalds
-
----
-
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Christian-17&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
