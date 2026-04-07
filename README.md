@@ -44,7 +44,7 @@ Building modern, scalable web applications from front to back.
 
 #### 🤖 AI & Assistants
 
-<a href="#"><img src="https://go-skill-icons.vercel.app/api/icons?i=claude,chatgpt,gemini,copilot&theme=dark" alt="AI Tools" /></a>
+<a href="#"><img src="https://go-skill-icons.vercel.app/api/icons?i=claude,chatgpt,gemini,githubcopilot&theme=dark" alt="AI Tools" /></a>
 
 </div>
 
