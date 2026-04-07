@@ -40,7 +40,7 @@ Building modern, scalable web applications from front to back.
 
 #### 🔧 Tools & Workflow
 
-<a href="#"><img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode&theme=dark" alt="Tools" /></a>
+<a href="#"><img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode,cursor&theme=dark" alt="Tools" /></a>
 
 #### 🤖 AI & Assistants
 
